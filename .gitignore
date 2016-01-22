@@ -2,3 +2,5 @@
 **/64x/
 *.sdf
 *.opensdf
+*.vcxproj.filters
+*.vcxproj

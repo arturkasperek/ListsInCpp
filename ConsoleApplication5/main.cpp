@@ -68,6 +68,5 @@ int main()
 	lista1->push(15);
 
 	display(lista1->toArray(), lista1->length);
-
 	system("PAUSE");
 }
